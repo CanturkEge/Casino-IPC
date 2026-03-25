@@ -1,2 +1,24 @@
 # Casino-IPC
-Console-based casino game developed in C++. Includes multiple game systems such as roulette, blackjack, slot machine, and dice game. Implements file handling for account management and uses STL structures like vector and map.
+
+This project is a console-based casino game developed in C++ as part of a university assignment.
+
+## 🚀 Games
+- Roulette
+- Blackjack
+- Slot Machine
+- Dice Game
+- Cave Game
+
+## 🛠️ Technologies
+- C++
+- STL (vector, map)
+- File I/O
+
+## 📌 Description
+The program allows users to create accounts, manage balance, and play multiple casino games with randomized outcomes.
+
+## ▶️ How to Run
+Compile and run the main `.cpp` file using any C++ compiler.
+
+## 📚 Note
+This project was developed for Introduction to Programming course.
